@@ -13,7 +13,7 @@
     "path": "pages/tema-1.html",
     "submenu": [       
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "comunicacion",
         "title": "1.1 Naturaleza de la comunicación",
         "anchor": "tema1_1"
@@ -34,7 +34,7 @@
   },
   {
     "id": 2,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text",
     "slug": "comunicacion_verbal_no_verbal",
     "title": "2. Comunicación verbal y no verbal",    
     "path": "pages/tema-2.html",
@@ -58,7 +58,7 @@
         "anchor": "tema2_3"
       },
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "comunicacion_verbal_no_verbal",
         "title": "2.4 Importancia del discurso oral - Características de una charla y exposición",
         "anchor": "tema2_4"
